@@ -1,2 +1,2 @@
 This is script file
-This is javascriptfile
+This is javascriptfile file
